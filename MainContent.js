@@ -1,4 +1,5 @@
 import React from "react"
+import ProductCard from "ProductCard"
 
 function MainContent(){
  return(
@@ -11,9 +12,23 @@ function MainContent(){
   reprimique constituam usu, vel ad erant suscipit perpetua, ea duis facete latine sea. Vim ei iuvaret labores eligendi, ne pro 
   quodsi invenire, mentitum assentior contentiones pri cu.</p>
   
-  <a><img src="" alt="picture"></a>
-  <a><img src="" alt="picture2"></a>
-  <a><img src="" alt="picture3"></a>
+  <ProductCard 
+    imgURL="https://i.postimg.cc/PxLRfdkf/chair-contemporary-design-1420902.jpg" 
+    linkURL="chairs.htm" 
+    categoryName="Stylish Chairs" 
+    cardID="chair-card" />
+  
+  <ProductCard 
+    imgURL="https://i.postimg.cc/QNTyRNb0/business-chairs-contemporary-416320.jpg" 
+    linkURL="tables.htm" 
+    categoryName="tables.htm" 
+    cardID="table-card" />
+  
+  <ProductCard 
+    imgURL="https://i.postimg.cc/nc7fYYgV/bench-bright-colors-937486.jpg" 
+    linkURL="bench.htm" 
+    categoryName="benches.htm" 
+    cardID="bench-card" />
   
   <h2>Some subtitle</h2>
   
@@ -25,3 +40,5 @@ function MainContent(){
 }
 
 export default MainContent
+
+/*https://postimg.cc/gallery/1cv9cqkvu/*/
