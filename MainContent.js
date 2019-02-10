@@ -13,19 +13,22 @@ function MainContent(){
   quodsi invenire, mentitum assentior contentiones pri cu.</p>
   
   <ProductCard 
-    imgURL="https://i.postimg.cc/PxLRfdkf/chair-contemporary-design-1420902.jpg" 
+    imgURL="https://i.postimg.cc/PxLRfdkf/chair-contemporary-design-1420902.jpg"
+    imgDescription="Chairs"
     linkURL="chairs.htm" 
     categoryName="Stylish Chairs" 
     cardID="chair-card" />
   
   <ProductCard 
     imgURL="https://i.postimg.cc/QNTyRNb0/business-chairs-contemporary-416320.jpg" 
+    imgDescription="Tables"
     linkURL="tables.htm" 
     categoryName="tables.htm" 
     cardID="table-card" />
   
   <ProductCard 
     imgURL="https://i.postimg.cc/nc7fYYgV/bench-bright-colors-937486.jpg" 
+    imgDescription="Benches"
     linkURL="bench.htm" 
     categoryName="benches.htm" 
     cardID="bench-card" />
