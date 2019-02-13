@@ -1,2 +1,2 @@
 # React-Basics-1
-React Basics Pratice Repository. Basic Front end React page structure, with SCSS styling.
+React Basics Pratice Repository. Basic Front end React page structure.
